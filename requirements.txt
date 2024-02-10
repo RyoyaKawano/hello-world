@@ -4,10 +4,8 @@ pandas
 matplotlib
 datetime
 flask 
-io 
-base64
+pybase64
 datetime
-calendar
-json
 jpholiday
-bs4 
+bs4==0.0.1
+gunicorn
