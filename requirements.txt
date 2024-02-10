@@ -1,0 +1,13 @@
+requests
+yfinance
+pandas
+matplotlib
+datetime
+flask 
+io 
+base64
+datetime
+calendar
+json
+jpholiday
+bs4 
