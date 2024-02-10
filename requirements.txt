@@ -4,7 +4,7 @@ pandas
 matplotlib
 datetime
 flask 
-pybase
+pybase64
 datetime
 calendar
 json
