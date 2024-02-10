@@ -6,6 +6,5 @@ datetime
 flask 
 pybase64
 datetime
-json
 jpholiday
 bs4==0.0.1
